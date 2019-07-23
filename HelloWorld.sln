@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{C6D46C
 	ProjectSection(SolutionItems) = preProject
 		Content\images\blank-profile-picture.jpg = Content\images\blank-profile-picture.jpg
 		Content\images\britain.jpg = Content\images\britain.jpg
-		Content\images\turkey.PNG = Content\images\turkey.PNG
+		Content\images\turkey.jpg = Content\images\turkey.jpg
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{99440CEB-4545-45BB-94CB-A63AC6FB01C0}"

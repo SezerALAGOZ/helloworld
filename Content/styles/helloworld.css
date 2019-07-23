@@ -115,6 +115,10 @@ table {
         padding: 2vw;
     }
 
+    .language:hover {
+        background: #477185;
+    }
+
     .language img {
         width: 15vw;
         position: relative;
