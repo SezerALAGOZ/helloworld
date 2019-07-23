@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9645E035-AE6C-451C-9550-50B0A2AD0380}"
+	ProjectSection(SolutionItems) = preProject
+		index-en.html = index-en.html
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{9259228F-725C-44E3-9A75-C2DA4D90A570}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{C6D46C26-0BA9-42B2-B1B3-C1E46C460428}"
+	ProjectSection(SolutionItems) = preProject
+		Content\images\blank-profile-picture.jpg = Content\images\blank-profile-picture.jpg
+		Content\images\britain.jpg = Content\images\britain.jpg
+		Content\images\turkey.PNG = Content\images\turkey.PNG
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "scripts", "scripts", "{99440CEB-4545-45BB-94CB-A63AC6FB01C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "styles", "styles", "{14BED7FA-9CB2-46A3-A9E9-98CC08D9B356}"
+	ProjectSection(SolutionItems) = preProject
+		Content\styles\helloworld.css = Content\styles\helloworld.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6D46C26-0BA9-42B2-B1B3-C1E46C460428} = {9259228F-725C-44E3-9A75-C2DA4D90A570}
+		{99440CEB-4545-45BB-94CB-A63AC6FB01C0} = {9259228F-725C-44E3-9A75-C2DA4D90A570}
+		{14BED7FA-9CB2-46A3-A9E9-98CC08D9B356} = {9259228F-725C-44E3-9A75-C2DA4D90A570}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8174A1F2-20A8-476A-82B7-8670A930BB2C}
+	EndGlobalSection
+EndGlobal
